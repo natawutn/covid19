@@ -10,3 +10,6 @@ Given existing cases, how many cases can be detected by each technology?
 - qr code should be the prefered choice for known or specific *public* areas related cases
 - bluetooth is suitable for close contact
 - gps is suitable for *private* or *community/unknown* areas.
+
+## Conclusion
+For 3 tracking technolgies, QR code will be able to help detecting only 43% of all cases. Thus, if there is the second wave, data from qr code checkin alone will not be enough.
